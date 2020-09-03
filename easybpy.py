@@ -431,6 +431,7 @@ def duplicate_collection(colname):
     pass
 
 def get_objects_from_collection(colname):
+    
     pass
 
 def get_collection(ref):
